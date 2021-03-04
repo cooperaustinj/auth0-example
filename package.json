@@ -2,7 +2,7 @@
     "name": "auth0-example",
     "version": "1.0.0",
     "main": "index.js",
-    "license": "MIT",
+    "license": "WTFPL",
     "scripts": {
         "serve": "nodemon src/index.js",
         "debug": "nodemon --inspect=0.0.0.0 src/index.js",
